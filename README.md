@@ -77,8 +77,6 @@ ETHERSCAN_API_KEY=<Your Etherscan API Key>
 
 - **Github URL:** [https://github.com/NikhilBajaj3196/NFT-Task-Smart-Contract](https://github.com/NikhilBajaj3196/NFT-Task-Smart-Contract)
 
-- **Deployed Contract Address:** [0x95441750fF94E3452269121933d5E98Ddc1638B4](https://sepolia.etherscan.io/address/0x95441750fF94E3452269121933d5E98Ddc1638B4#code)
+- **Deployed Contract:** [0x41ee7169D027bAf4D9c5E1f8a2FF46EF9e29eFd9](https://sepolia.etherscan.io/address/0x41ee7169D027bAf4D9c5E1f8a2FF46EF9e29eFd9#code)
 
-- **Etherscan URL:** [https://sepolia.etherscan.io/address/0x95441750fF94E3452269121933d5E98Ddc1638B4#code](https://sepolia.etherscan.io/address/0x95441750fF94E3452269121933d5E98Ddc1638B4#code)
-
-I have done the UI deployment using Vercel which can be used to interact with the contract: [https://nft-zig-iota.vercel.app/](https://nft-zig-iota.vercel.app/)
+- **Vercel UI:** [https://nft-zig-iota.vercel.app/](https://nft-zig-iota.vercel.app/)
